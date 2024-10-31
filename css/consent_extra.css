@@ -1,0 +1,18 @@
+<!-- extra css for consent stuff -->
+
+<style type="text/css">
+.cc-banner.cc-top {
+    margin-top:5% !important;
+}
+.cc-banner {
+    margin-top:5% !important;
+}
+.cc-cc-top {
+    margin-top:5% !important;
+}
+.cc-link {
+    color:#000 !important;
+    background-color:yellow !important;
+    text-decoration:underline !important;
+}
+</style>
